@@ -12,3 +12,8 @@ source_metadata:
       parent: Swift Rebirth Prayers
 created_at: '2022-03-01T00:58:29.392636'
 last_modified_at: '2022-03-01T00:58:29.392639'
+statistics:
+  total_words: 221
+  total_non_words: 17
+quality:
+  non_words_ratio: 0.08
